@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Metaprogramming",
+        "repositoryURL": "https://github.com/tensorflow/swift",
+        "state": {
+          "branch": "main",
+          "revision": "f0d6c74ef5d016046afc1eac0b07a2f6b74b8fdf",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
