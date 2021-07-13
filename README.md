@@ -55,5 +55,5 @@ Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전�
 <URL 변경>  
 ![replace_text](./PeaceKeeper/assets/img/ipad/replace_text.png)  
 <악성 문자열이 치환된 모습>  
-<img src="./PeaceKeeper/assets/img/ipad/replace.png" alt="replace" width="300" height="300"/>  
+<img src="./PeaceKeeper/assets/img/ipad/replace.png" alt="replace" width="500" height="300"/>  
 <자신이 원하는 문자열로 바꾸고자 할 때 입력하는 창>  
