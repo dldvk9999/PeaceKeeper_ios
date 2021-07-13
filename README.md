@@ -33,8 +33,8 @@ Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전�
 
 ## 실행 이미지
 ### IPhone 8
-![main](./PeaceKeeper/assets/img/iphone8/main.png)  
-<앱 초기화면>  
+![main](./PeaceKeeper/assets/img/iphone8/main.png){: width="50%" height="50%"}{: .center}  
+<앱 초기화면>{: .center}  
 ![url_change](./PeaceKeeper/assets/img/iphone8/url_change.png)  
 <URL_Change>  
 ![replace_text](./PeaceKeeper/assets/img/iphone8/replace_text.png)  
