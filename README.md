@@ -36,24 +36,24 @@ Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전�
 <img src="./PeaceKeeper/assets/img/iphone8/main.png" alt="main" width="300" height="600"/>  
 <앱 초기화면>  
 <img src="./PeaceKeeper/assets/img/iphone8/url_change.png" alt="url_change" width="300" height="600"/>  
-<URL_Change>  
+<URL 변경>  
 <img src="./PeaceKeeper/assets/img/iphone8/replace_text.png" alt="replace_text" width="300" height="600"/>  
 <악성 문자열이 치환된 모습>  
 
 ### IPhone 12
-![main](./PeaceKeeper/assets/img/iphone12/main.png)  
+<img src="./PeaceKeeper/assets/img/iphone12/main.png" alt="main" width="300" height="600"/>  
 <앱 초기화면>  
-![url_change](./PeaceKeeper/assets/img/iphone12/url_change.png)  
-<URL_Change>  
-![replace_text](./PeaceKeeper/assets/img/iphone12/replace_text.png)  
+<img src="./PeaceKeeper/assets/img/iphone12/url_change.png" alt="url_change" width="300" height="600"/>  
+<URL 변경>  
+<img src="./PeaceKeeper/assets/img/iphone12/replace_text.png" alt="replace_text" width="300" height="600"/>  
 <악성 문자열이 치환된 모습>  
 
 ### IPad
 ![main](./PeaceKeeper/assets/img/ipad/main.png)  
 <앱 초기화면>  
 ![url_change](./PeaceKeeper/assets/img/ipad/url_change.png)  
-<URL_Change>  
+<URL 변경>  
 ![replace_text](./PeaceKeeper/assets/img/ipad/replace_text.png)  
 <악성 문자열이 치환된 모습>  
-![replace](./PeaceKeeper/assets/img/ipad/replace.png)  
+<img src="./PeaceKeeper/assets/img/ipad/replace.png" alt="replace" width="300" height="300"/>  
 <자신이 원하는 문자열로 바꾸고자 할 때 입력하는 창>  
