@@ -33,11 +33,11 @@ Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전�
 
 ## 실행 이미지
 ### IPhone 8
-<img src="./PeaceKeeper/assets/img/iphone8/main.png" alt="main" width="300" height="600"/>
+<img src="./PeaceKeeper/assets/img/iphone8/main.png" alt="main" width="300" height="600"/>  
 <앱 초기화면>  
-![url_change](./PeaceKeeper/assets/img/iphone8/url_change.png)  
+<img src="./PeaceKeeper/assets/img/iphone8/url_change.png" alt="url_change" width="300" height="600"/>  
 <URL_Change>  
-![replace_text](./PeaceKeeper/assets/img/iphone8/replace_text.png)  
+<img src="./PeaceKeeper/assets/img/iphone8/replace_text.png" alt="replace_text" width="300" height="600"/>  
 <악성 문자열이 치환된 모습>  
 
 ### IPhone 12
