@@ -1,9 +1,9 @@
 # PeaceKeeper_IOS
 
 ## 개요
-본 레포지토리는 졸업프로젝트로 사용 될 PeaceKeeper 라는 프로그램의 ios 버전입니다.
-Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전적 이유로 등록하지 않았습니다.
-따라서 해당 소스코드는 github에만 등록하기로 하였고, 이에 본 레포지토리를 상업적 용도로 이용할 것을 엄격히 금지하는 바입니다.
+본 레포지토리는 졸업프로젝트로 사용 될 PeaceKeeper 라는 프로그램의 ios 버전입니다.  
+Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전적 이유로 등록하지 않았습니다.  
+따라서 해당 소스코드는 github에만 등록하기로 하였고, 이에 본 레포지토리를 상업적 용도로 이용할 것을 엄격히 금지하는 바입니다.  
 
 ***
 
@@ -30,27 +30,27 @@ Apple Developer Program에 등록 후 Appstore에 등록하려 했지만 금전�
 
 ## 실행 이미지
 ### IPhone 8
-![main](./PeaceKeeper/assets/img/iphone8/main.png)
+![main](./PeaceKeeper/assets/img/iphone8/main.png)  
 <앱 초기화면>
-![url_change](./PeaceKeeper/assets/img/iphone8/url_change.png)
+![url_change](./PeaceKeeper/assets/img/iphone8/url_change.png)  
 <URL_Change>
-![replace_text](./PeaceKeeper/assets/img/iphone8/replace_text.png)
+![replace_text](./PeaceKeeper/assets/img/iphone8/replace_text.png)  
 <악성 문자열이 치환된 모습>
 
 ### IPhone 12
-![main](./PeaceKeeper/assets/img/iphone12/main.png)
+![main](./PeaceKeeper/assets/img/iphone12/main.png)  
 <앱 초기화면>
-![url_change](./PeaceKeeper/assets/img/iphone12/url_change.png)
+![url_change](./PeaceKeeper/assets/img/iphone12/url_change.png)  
 <URL_Change>
-![replace_text](./PeaceKeeper/assets/img/iphone12/replace_text.png)
+![replace_text](./PeaceKeeper/assets/img/iphone12/replace_text.png)  
 <악성 문자열이 치환된 모습>
 
 ### IPad
-![main](./PeaceKeeper/assets/img/ipad/main.png)
+![main](./PeaceKeeper/assets/img/ipad/main.png)  
 <앱 초기화면>
-![url_change](./PeaceKeeper/assets/img/ipad/url_change.png)
+![url_change](./PeaceKeeper/assets/img/ipad/url_change.png)  
 <URL_Change>
-![replace_text](./PeaceKeeper/assets/img/ipad/replace_text.png)
+![replace_text](./PeaceKeeper/assets/img/ipad/replace_text.png)  
 <악성 문자열이 치환된 모습>
-![replace](./PeaceKeeper/assets/img/ipad/replace.png)
+![replace](./PeaceKeeper/assets/img/ipad/replace.png)  
 <자신이 원하는 문자열로 바꾸고자 할 때 입력하는 창>
