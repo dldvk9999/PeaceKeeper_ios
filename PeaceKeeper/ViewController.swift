@@ -25,8 +25,7 @@ class ViewController: UIViewController,WKUIDelegate,WKNavigationDelegate, UIScro
     override func loadView() {
         super.loadView()
         
-        // navigationToolBar 설정
-        self.navigationController?.isToolbarHidden = false
+        // navigationController 설정
         self.navigationController?.hidesBarsWhenKeyboardAppears = true
         self.navigationController?.navigationBar.isTranslucent = true
         self.navigationController?.setStatusBar(backgroundColor: .systemBackground)
